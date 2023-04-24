@@ -54,6 +54,7 @@ nav a:hover {
 /* Main styles */
 main {
     padding: 50px 0;
+    background-color: #f5f5f5;
 }
 
 section {
@@ -72,3 +73,101 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+#overview {
+    
+    padding: 80px 0;
+}
+
+#overview h2 {
+font-size: 36px;
+margin-bottom: 40px;
+}
+
+#overview p {
+font-size: 18px;
+line-height: 1.5;
+margin-bottom: 30px;
+}
+
+#overview img {
+max-width: 100%;
+height: auto;
+border-radius: 5px;
+box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Credentials Styles */
+#credentials {
+margin-bottom: 50px;
+}
+
+#credentials h2 {
+font-size: 36px;
+margin-bottom: 20px;
+}
+
+#credentials p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#credentials div {
+    text-align: center;
+  }
+
+#credentials ul {
+    margin: 0 auto;
+    padding: 0;
+    list-style: disc;
+    text-align: left;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#credentials li {
+    margin-bottom: 10px;
+    font-size: 15px;
+    text-align: left;
+}
+
+/* Services Styles */
+#services {
+    margin-bottom: 50px;
+    }
+    
+    #services h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    }
+    
+    #services p {
+        font-size: 18px;
+        line-height: 1.5;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    
+    #services div {
+        text-align: center;
+      }
+    
+    #services ul {
+        margin: 0 auto;
+        padding: 0;
+        list-style: disc;
+        text-align: left;
+        display: table;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #services li {
+        margin-bottom: 10px;
+        font-size: 15px;
+        text-align: left;
+    }
+  
